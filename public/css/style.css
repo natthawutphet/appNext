@@ -1,0 +1,27 @@
+
+  .slider {
+    width: 600px;
+    overflow: hidden;
+    margin: auto;
+  }
+
+  .slides {
+    display: flex;
+    transition: transform 1s ease;
+  }
+
+  .slides img {
+    min-width: 100%;
+    flex-shrink: 0;
+    display: block;
+  }
+
+
+.box {
+    margin: auto;
+    max-width: 900px;
+    padding: 50px;
+    background-color: #e0e0e0;
+    box-shadow: 10px 10px 20px 0px rgba(0, 0, 0, 0.5);
+  }
+  
