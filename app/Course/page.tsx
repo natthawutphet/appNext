@@ -22,7 +22,7 @@ export default function page() {
        <meta property="og:image" content="/img/logo.jpg"/>
 
        <meta property="og:image" content="/img/class.jpg" />
-      <meta property="og:url" content="/img/facebook_ads.jpg"/>
+      <meta property="og:url" content="https://service-ads.com"/>
       <meta property="og:image:width" content="1200" />
       <meta property="og:image:height" content="630" />
 

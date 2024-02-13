@@ -15,12 +15,11 @@ export default function page() {
       <meta name="keywords" content={metadata.keyword} />
       <meta name="robots" content="index, follow"/>
       <meta name="googlebot" content="index, follow"/>
-      <link rel="shortcut icon" href="/assets/img/logo.png" type="image/x-icon"/>
-       <link rel="icon" href="/assets/img/logo.png"/> 
-       <meta property="og:image" content="/assets/img/logo.jpg"/>
+      <link rel="shortcut icon" href="/img/logo.png" type="image/x-icon"/>
+       <link rel="icon" href="/img/logo.png"/> 
+       <meta property="og:image" content="/img/logo.jpg"/>
 
-       <meta property="og:image" content="/assets/img/logo.png" />
-      <meta property="og:url" content="/assets/img/facebook_ads.jpg"/>
+       <meta property="og:url" content="https://service-ads.com"/>
       <meta property="og:image:width" content="1200" />
       <meta property="og:image:height" content="630" />
       

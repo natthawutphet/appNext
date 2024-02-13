@@ -21,7 +21,7 @@ export default function page() {
        <meta property="og:image" content="/img/logo.jpg"/>
 
        <meta property="og:image" content="/Google_Ads_%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%97%E0%B8%B2/gg.jpg" />
-      <meta property="og:url" content="/img/facebook_ads.jpg"/>
+       <meta property="og:url" content="https://service-ads.com"/>
       <meta property="og:image:width" content="1200" />
       <meta property="og:image:height" content="630" />
 

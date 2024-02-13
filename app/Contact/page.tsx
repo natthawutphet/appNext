@@ -19,6 +19,7 @@ export default function page() {
       <link rel="shortcut icon" href="/img/logo.png" type="image/x-icon"/>
        <link rel="icon" href="/img/logo.png"/> 
        <meta property="og:image" content="/img/logo.jpg"/>
+       <meta property="og:url" content="https://service-ads.com"/>
 <div className="container contact-page text-center">
     <h2>Contact </h2>
     <h3>ติดต่อทีมงานบริการ การตลาดGoogleYouTubeFacebook</h3>
